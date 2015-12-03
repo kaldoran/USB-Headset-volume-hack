@@ -1,0 +1,4 @@
+Uselfull script that ; bind with the good key; allow to up the sound ( and down / mute it)
+Even if you connect a USB headset, that's still work.
+
+The notification system need libnotify-id from aur to work (  https://aur.archlinux.org/packages/libnotify-id/ )
