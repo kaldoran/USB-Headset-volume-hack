@@ -1,4 +1,6 @@
-Uselfull script that ; bind with the good key; allow to up the sound ( and down / mute it)
-Even if you connect a USB headset, that's still work.
+Script that will increase / lower the volume and mute it ( with notification of update )
+That script need to be bind on the XF86 key in order to work.
+
+Side note : that will also work if your usb headset got volume control on it
 
 The notification system need libnotify-id from aur to work (  https://aur.archlinux.org/packages/libnotify-id/ )
